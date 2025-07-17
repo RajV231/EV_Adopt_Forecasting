@@ -53,8 +53,7 @@ Here's what the data looks like:
 
 1. **Grab the code:**
    ```bash
-   git clone https://github.com/yourusername/ev-adoption-forecasting.git
-   cd ev-adoption-forecasting
+   https://github.com/RajV231/EV_Adopt_Forecasting.git
    ```
 
 2. **Create a clean Python environment** (trust me, this saves headaches later):
